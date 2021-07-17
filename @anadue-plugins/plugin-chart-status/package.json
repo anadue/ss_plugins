@@ -20,16 +20,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajay-kr-shukla/anadue-plugins.git"
+    "url": "git+https://github.com/anadue/ss_plugins.git"
   },
   "keywords": [
     "superset"
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ajay-kr-shukla/anadue-plugins/issues"
+    "url": "https://github.com/anadue/ss_plugins/issues"
   },
-  "homepage": "https://github.com/ajay-kr-shukla/anadue-plugins#readme",
+  "homepage": "https://github.com/anadue/ss_plugins#readme",
   "publishConfig": {
     "access": "public"
   },
